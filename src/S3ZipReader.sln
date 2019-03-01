@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3ZipReader", "S3ZipReader\S3ZipReader.csproj", "{4524CD1C-014C-46BC-A018-2AD423C504BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4524CD1C-014C-46BC-A018-2AD423C504BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4524CD1C-014C-46BC-A018-2AD423C504BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4524CD1C-014C-46BC-A018-2AD423C504BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4524CD1C-014C-46BC-A018-2AD423C504BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3264A7A-BD59-494E-892E-E9EA7CDD3125}
+	EndGlobalSection
+EndGlobal
